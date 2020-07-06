@@ -1,0 +1,13 @@
+.headerP {
+  height: 100px;
+  background-color: black;
+
+  font-family: "Libre Baskerville", serif;
+  color: white;
+  padding: 9px;
+  padding-top: 20px;
+  font-size: 30px;
+}
+.ui inverted {
+  color: white;
+}
